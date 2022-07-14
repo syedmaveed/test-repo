@@ -1,3 +1,2 @@
 # test-repo
-newS
-"tHIS IS FRP, OUR ;OCAL "COMPU"
+This is my Second Example
